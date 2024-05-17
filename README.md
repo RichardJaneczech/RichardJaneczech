@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am student of Human Geography in Prague, interested in Data Science, Statistics and Climate change🌱
 
 <!--
 **RichardJaneczech/RichardJaneczech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
