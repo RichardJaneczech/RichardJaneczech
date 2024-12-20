@@ -1,4 +1,4 @@
-### Python, GIS, remote sensing and Human geography, advanced statistics
+### Python, GIS, Remote Sensing and Human Geography, Advanced Statistics
 
 <!--
 **RichardJaneczech/RichardJaneczech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
